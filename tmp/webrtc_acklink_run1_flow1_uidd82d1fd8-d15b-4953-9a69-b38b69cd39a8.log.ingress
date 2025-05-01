@@ -1,0 +1,10 @@
+# 'mm-tunnelclient' '--ingress-log=/home/vboxuser/pantheon/tmp/webrtc_acklink_run1_flow1_uidd82d1fd8-d15b-4953-9a69-b38b69cd39a8.log.ingress' '--egress-log=/home/vboxuser/pantheon/tmp/webrtc_datalink_run1_flow1_uidd82d1fd8-d15b-4953-9a69-b38b69cd39a8.log.egress' '100.64.0.1' '44256' '100.64.0.4' '100.64.0.3' ingress: 1744939743050.932
+3256.266 - 0 - 96
+3280.528 - 1 - 96
+3280.568 - 2 - 96
+3330.029 - 3 - 96
+6268.923 - 4 - 104
+6277.684 - 5 - 76
+7085.705 - 6 - 76
+7275.038 - 7 - 104
+9282.643 - 8 - 104

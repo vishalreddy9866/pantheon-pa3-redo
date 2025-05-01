@@ -1,0 +1,1 @@
+# 'mm-tunnelclient' '--ingress-log=/home/vboxuser/pantheon/tmp/indigo_acklink_run1_flow1_uid6760f738-5f3d-4615-9302-16b4de0ace35.log.ingress' '--egress-log=/home/vboxuser/pantheon/tmp/indigo_datalink_run1_flow1_uid6760f738-5f3d-4615-9302-16b4de0ace35.log.egress' '100.64.0.1' '41176' '100.64.0.4' '100.64.0.3' ingress: 1744939342463.071

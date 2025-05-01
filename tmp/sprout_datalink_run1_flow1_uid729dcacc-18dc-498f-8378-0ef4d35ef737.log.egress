@@ -1,0 +1,1 @@
+# 'mm-tunnelclient' '--ingress-log=/home/vboxuser/pantheon/tmp/sprout_acklink_run1_flow1_uid729dcacc-18dc-498f-8378-0ef4d35ef737.log.ingress' '--egress-log=/home/vboxuser/pantheon/tmp/sprout_datalink_run1_flow1_uid729dcacc-18dc-498f-8378-0ef4d35ef737.log.egress' '100.64.0.1' '48019' '100.64.0.4' '100.64.0.3' egress: 1744939442670.329
